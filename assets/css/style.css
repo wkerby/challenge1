@@ -192,7 +192,7 @@ p {
     font-size: 36px;
 }
 
-footer {
+footer { /*made footer an element selector instead of a class selector since semantic element was added to the html file*/
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
