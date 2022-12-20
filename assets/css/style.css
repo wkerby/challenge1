@@ -68,6 +68,10 @@ footer { /*made footer an element selector instead of a class selector since sem
     text-align: center;
 }
 
+footer h2 {
+    font-size: 20px;
+}
+
 /*Class selectors*/
 .hero {
     height: 800px;
@@ -180,6 +184,4 @@ footer { /*made footer an element selector instead of a class selector since sem
     font-size: 36px;
 }
 
-.footer h2 {
-    font-size: 20px;
-}
+
