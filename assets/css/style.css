@@ -106,19 +106,14 @@ h3 { /*consolidate the .benefit-lead,.benefit-brand, and .benefit-cost selectors
     text-align:center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* h3 img {
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+    display:block;
+    margin:10px auto;
+    max-width:150px;
+} */
 
-.benefit-cost img {
+.benefits img { /*create a .benefits img selector to eliminate redundancy*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
