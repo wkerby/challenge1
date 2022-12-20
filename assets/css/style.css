@@ -10,6 +10,10 @@ body {
     background-color: #d9dcd6;
 }
 
+nav {
+    display:inline;
+}
+
 header { /*made header an element selector instead of a class selector since semantic element was added to the html file*/
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -26,7 +30,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header section {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,11 +38,11 @@ header section {
     font-size: 20px;
 }
 
-header section ul {
+header nav ul {
     list-style-type: none;
 }
 
-header section ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
