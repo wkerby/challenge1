@@ -15,7 +15,7 @@ and specificity and how they influence styling in an index.html file.
 
 ## Usage
 
-See the assets/images folder for a mock-up screenshot of the refactored Horiseon webpage (entitled horiseon-webpage.png). [Mock-up] (assets/images/horiseon-webpage.png). You will notice that refactoring of the index.html file resulted in minimal visual
+See the assets/images folder for a mock-up screenshot of the refactored Horiseon webpage (entitled horiseon-webpage.png). ![Mock-up] (assets/images/horiseon-webpage.png). You will notice that refactoring of the index.html file resulted in minimal visual
 changes to the webpage
 
 ## Credits
