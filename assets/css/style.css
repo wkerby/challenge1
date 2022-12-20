@@ -4,12 +4,12 @@
     margin: 0;
 }
 
-nav {
-    display:inline
-}
-
 body {
     background-color: #d9dcd6;
+}
+
+nav {
+    display:inline;
 }
 
 header { /*made header an element selector instead of a class selector since semantic element was added to the html file*/
