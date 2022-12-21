@@ -142,15 +142,9 @@ footer h2 {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
+.search-engine-optimization img,
+.social-media-marketing img,
 .online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
     max-height: 200px;
 }
 
