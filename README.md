@@ -15,8 +15,10 @@ and specificity and how they influence styling in an index.html file.
 
 ## Usage
 
-See the assets/images folder for a mock-up screenshot of the refactored Horiseon webpage (entitled horiseon-webpage.png) ![horiseon-webpage](https://user-images.githubusercontent.com/101428715/208890340-61f9529f-7673-414a-a4e1-9df5512dd798.png). You will notice that refactoring of the index.html file resulted in minimal visual
-changes to the webpage
+Below is a screenshot of the Horiseon webpage mock-up. You will notice that refactoring of the index.html file resulted in minimal visual
+changes to the webpage:
+
+![horiseon-webpage](https://user-images.githubusercontent.com/101428715/208899699-2f8ce2f2-8f78-469c-a494-0b99329d1941.png)
 
 ## Credits
 
